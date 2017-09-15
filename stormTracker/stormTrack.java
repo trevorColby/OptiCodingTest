@@ -340,6 +340,4 @@ public static void stormPrint(ArrayList<ArrayList<probeReading>> storms){
 		}
 	}
 }
-
-
 }
