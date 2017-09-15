@@ -1,9 +1,15 @@
-Trevor Colby
+Tevor Colby
 8/29/2017
 Opti Coding Evaluation
 
 Storm Event Tracker Read Me
 ---------------------------
+#### Compile Using:
+ - javac -cp json-simple-1.1.1.jar -g stormTrack.java probeReading.java
+#### Run Using: 
+ - java -cp json-simple-1.1.1.jar:. stormTrack (Followed by: .json file like GreenRoofStorms.json)
+#### Cleanup Using: 
+ - make clean (please note: makefile was included just for the cleaning process)
 
 #### Overview
 - Both .java files are contained with the stormTracker directory (probeReading and stormTrack)
@@ -18,6 +24,8 @@ Storm Event Tracker Read Me
 - The moisture change was detected up to a ".009" change since small fluctuations did occur without rain actually starting
 
 #### Sample Output:
+
+
 
 --------------------Storm Number: 1--------------------
 
