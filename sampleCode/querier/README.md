@@ -1,6 +1,11 @@
-### Trevor Colby
+## Trevor Colby
 ### CS50 Professor David Kotz
 ### 5/08/2017
+
+### OPTI:
+-  Please note that this is just a module of a bigger project
+- I have included it to demonstrate my ability to work as part of a bigger project
+-  It will not compile without the hashtable class which could not be included since it was not my own work
 
 Querier: A program that brings together the functionality of the crawler and indexer to provide a basic search engine service,
 it is command line executed
